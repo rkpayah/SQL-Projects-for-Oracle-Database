@@ -1,9 +1,10 @@
 # SQL-Projects-for-Oracle-Database
-Using SQL Developer, Data Manipulation &amp; Data Definition Languages to interact with tables on the Oracle Database
+Using SQL Developer, Data Manipulation &amp; Data Definition Languages  to interact with tables on the Oracle Database
 
 Projec 1
 
 Key Takeaways
+
 ● Understanding the project and how to use Oracle Database 21c
 ● Understanding the basics of data analysis, SQL commands, and their application
 ● Working on DML commands and listing employee details based on complex nested conditions ● Introduction to Oracle SQL Developer
